@@ -15,7 +15,7 @@ The project combines **statistical modeling, exploratory data analysis (EDA), an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - **R**
@@ -33,7 +33,7 @@ The project combines **statistical modeling, exploratory data analysis (EDA), an
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** World Happiness Report (2019)
 - **Coverage:** ~150 countries
 - **Key Features:**
@@ -45,13 +45,4 @@ The project combines **statistical modeling, exploratory data analysis (EDA), an
   - Generosity
   - Perceptions of corruption
 
----
 
-## 🔍 Methodology
-
-### 1️⃣ Data Cleaning & Wrangling
-- Handled missing values and inconsistent country entries
-- Standardized feature formats across R and Python environments
-- Verified data integrity across tools
-
-### 2
