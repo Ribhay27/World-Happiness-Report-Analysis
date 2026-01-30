@@ -1,13 +1,13 @@
-# 🌍 World Happiness Report Analysis (2019)
+# World Happiness Report Analysis (2019)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes the **2019 World Happiness Report** across ~150 countries to identify and quantify the **key socio-economic factors influencing national happiness scores**. Using **R and Python**, the analysis focuses on understanding how **GDP per capita, life expectancy, and social support** contribute to overall happiness.
 
 The project combines **statistical modeling, exploratory data analysis (EDA), and automated pipelines** to ensure reproducible and verifiable results.
 
 ---
 
-## 🧠 Key Objectives
+## Key Objectives
 - Identify the strongest socio-economic drivers of happiness
 - Quantify relationships between happiness scores and economic/social indicators
 - Validate findings using multiple statistical techniques
